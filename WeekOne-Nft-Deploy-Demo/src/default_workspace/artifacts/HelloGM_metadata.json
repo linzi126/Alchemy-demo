@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.5.0+commit.1d4f565a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "gm",
+				"outputs": [
+					{
+						"name": "",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Helloworld_Contract_sol.sol": "HelloGM"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Helloworld_Contract_sol.sol": {
+			"keccak256": "0x4b258cc762e6790f6b04430f9c4dc90de204327d0bf94859c9c13b154d2478fa",
+			"urls": [
+				"bzzr://0206e34b85ea2693b1647b24bf687370992649645a3c86dd04f0cd36a3b90e1a"
+			]
+		}
+	},
+	"version": 1
+}
